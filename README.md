@@ -32,8 +32,8 @@ Este proyecto implementa un sistema de autenticación de usuarios con **React (f
 
 ### 1️⃣ Clonar el repositorio:
 ```bash
-git clone https://github.com/tuusuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/Jaider-QBM/pruebaTecnica.git
+cd pruebaTecnica
 ```
 ### 2️⃣ Configurar el backend:
 ```bash
@@ -54,7 +54,7 @@ npm run dev
 Crea un archivo .env en la carpeta backend con los siguientes valores:
 ```ini
 PORT=5000
-MONGO_URI=mongodb://localhost:27017/tu-base-de-datos
+MONGO_URI=mongodb://localhost:27017/Developer
 JWT_SECRET=clave_secreta
 ```
 
