@@ -40,7 +40,6 @@ mongod.lock
 
 # 🛑 Ignorar archivos de bases de datos exportadas
 *.bson
-*.json
 *.csv
 dump/
 backup/
