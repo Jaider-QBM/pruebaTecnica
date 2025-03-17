@@ -10,7 +10,7 @@ const AuthProvider = ({ children }) => {
   useEffect(() => {
     const token = getToken();
     if (token) {
-      setUser({ token }); // 🔹 Usuario autenticado si hay token
+      setUser({ token });
     }
     setLoading(false);
   }, []);

@@ -19,7 +19,7 @@ const useValidation = () => {
         }
 
         setErrors(validationErrors);
-        return Object.keys(validationErrors).length === 0; // Retorna true si no hay errores
+        return Object.keys(validationErrors).length === 0;
     };
 
     return { errors, validateLogin };

@@ -8,7 +8,6 @@ const AppRoutes = () => {
     <Routes>
       <Route path="/" element={<AuthLayout />} />
 
-      {/* 🔹 Rutas privadas (requieren autenticación) */}
       <Route element={<PrivateRoute />}>
         <Route path="/dashboard" element={<Dashboard />} />
       </Route>
