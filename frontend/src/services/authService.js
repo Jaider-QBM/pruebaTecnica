@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/auth";
+const API_URL = "https://login-lzls.onrender.com/auth";
 
 /**
  * Realiza una solicitud a la API
