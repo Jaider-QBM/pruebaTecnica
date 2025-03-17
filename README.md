@@ -3,8 +3,7 @@
 Este proyecto implementa un sistema de autenticación de usuarios con **React (frontend)** y **Express.js + MongoDB (backend)**. Los usuarios pueden registrarse, iniciar sesión y acceder a rutas protegidas mediante **JSON Web Tokens (JWT)**.
 
 ## 📷 Vista Previa
-![image](https://github.com/user-attachments/assets/5a1f3114-f72a-44e2-ad98-377680b52ff7)
-
+![image](https://github.com/user-attachments/assets/25b1b152-24e8-4fcc-9b76-707cb3abe441)
 
 ## 🛠️ Tecnologías Utilizadas
 
