@@ -5,7 +5,7 @@ const cors = require("cors");
 
 const app = express();
 app.use(cors({
-  origin: "https://prueba-tecnica-neon-chi.vercel.app", // ✅ Frontend en Vercel
+  origin: ["https://prueba-tecnica-neon-chi.vercel.app", "http://localhost:5173"],
   methods: "POST",
   credentials: true
 }));
